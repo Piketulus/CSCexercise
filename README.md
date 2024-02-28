@@ -23,7 +23,7 @@ To run the application locally, follow these steps:
 
 ```
 git clone https://github.com/Piketulus/CSCexercise
-cd your-repo
+cd CSCexercise
 ```
 
 2. Install dependencies:
