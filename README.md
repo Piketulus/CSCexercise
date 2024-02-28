@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 3. Set up GitHub client ID and secret:
 
-Replace `"GITHUB_CLIENT_ID"` and `"GITHUB_CLIENT_SECRET"` on lines [9]() and [10]() with the client ID and secret obtained from GitHub OAuth application.
+Replace `"GITHUB_CLIENT_ID"` and `"GITHUB_CLIENT_SECRET"` on lines [9](https://github.com/Piketulus/CSCexercise/blob/0f3af6b447d5b986bc3ee998030635ba727b77ee/main.py#L9) and [10](https://github.com/Piketulus/CSCexercise/blob/0f3af6b447d5b986bc3ee998030635ba727b77ee/main.py#L10) with the client ID and secret obtained from GitHub OAuth application.
 
 4. Run the application using Uvicorn:
 
